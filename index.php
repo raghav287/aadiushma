@@ -11,89 +11,89 @@
     <?php include("common-section/header-link.php"); ?>
 
     <style>
+    .read-more-hide {
+        margin-left: 520px;
+    }
+
+    .read-more-show {
+        margin-left: 520px;
+    }
+
+    @media only screen and (max-width: 767px) {
         .read-more-hide {
-            margin-left: 520px;
+            margin-left: 0px !important;
         }
 
         .read-more-show {
-            margin-left: 520px;
+            margin-left: 0px !important;
         }
 
-        @media only screen and (max-width: 767px) {
-            .read-more-hide {
-                margin-left: 0px !important;
-            }
-
-            .read-more-show {
-                margin-left: 0px !important;
-            }
-
-            .clntdiv {
-                width: 50% !important;
-                margin-top: 12px !important;
-            }
-
-            .ltn__contact-message-area {
-                padding: 9px !important;
-            }
+        .clntdiv {
+            width: 50% !important;
+            margin-top: 12px !important;
         }
 
-        .downhvr:hover {
-            margin-top: 10px !important;
-            transition: .5s;
+        .ltn__contact-message-area {
+            padding: 9px !important;
         }
+    }
 
-        .slide-brief {
-            max-width: 570px;
-        }
+    .downhvr:hover {
+        margin-top: 10px !important;
+        transition: .5s;
+    }
 
-        .ltn__blog-img img {
-            width: 100%;
-            height: 400px;
-            object-fit: contain;
-        }
+    .slide-brief {
+        max-width: 570px;
+    }
+
+    .ltn__blog-img img {
+        width: 100%;
+        height: 400px;
+        object-fit: contain;
+    }
     </style>
 
     <meta name="google-site-verification" content="qgvvk4oXRqpa7Xt-MV6vFwW0W7ywutuN4VZJfxrAd-4" />
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Aadiushmaa",
-  "image": "https://www.aadiushmaa.com/img/aadiushma-new-logo.png",
-  "@id": "",
-  "url": "https://www.aadiushmaa.com/",
-  "telephone": "+91-9357305272",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "SCO-6, IInd Floor, Industrial Area, Phase-2",
-    "addressLocality": "Chandigarh",
-    "postalCode": "160002",
-    "addressCountry": "IN"
-  },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday"
-    ],
-    "opens": "00:00",
-    "closes": "23:59"
-  },
-  "sameAs": [
-    "https://www.facebook.com/aadiushmaaengineers",
-    "https://www.linkedin.com/company/aadiushmaa-engineers-private-limited/",
-    "https://twitter.com/aadiushmaa",
-    "https://www.aadiushmaa.com/"
-  ] 
-}
-</script>
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Aadiushmaa",
+        "image": "https://www.aadiushmaa.com/img/aadiushma-new-logo.png",
+        "@id": "",
+        "url": "https://www.aadiushmaa.com/",
+        "telephone": "+91-9357305272",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "SCO-6, IInd Floor, Industrial Area, Phase-2",
+            "addressLocality": "Chandigarh",
+            "postalCode": "160002",
+            "addressCountry": "IN"
+        },
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        },
+        "sameAs": [
+            "https://www.facebook.com/aadiushmaaengineers",
+            "https://www.linkedin.com/company/aadiushmaa-engineers-private-limited/",
+            "https://twitter.com/aadiushmaa",
+            "https://www.aadiushmaa.com/"
+        ]
+    }
+    </script>
 
 </head>
 
@@ -105,28 +105,28 @@
 
 
     <style>
+    .ltn__slide-item {
+        height: 70vh;
+        /* default for desktop */
+        background-size: contain;
+        background-position: center;
+    }
+
+    /* Tablet */
+    @media (max-width: 991px) {
         .ltn__slide-item {
-            height: 70vh;
-            /* default for desktop */
-            background-size: contain;
-            background-position: center;
+            height: 50vh;
         }
+    }
 
-        /* Tablet */
-        @media (max-width: 991px) {
-            .ltn__slide-item {
-                height: 50vh;
-            }
+    /* Mobile */
+    @media (max-width: 575px) {
+        .ltn__slide-item {
+            height: 10rem;
+            padding: 0 !important;
+            min-height: auto !important;
         }
-
-        /* Mobile */
-        @media (max-width: 575px) {
-            .ltn__slide-item {
-                height: 10rem;
-                padding: 0 !important;
-                min-height: auto !important;
-            }
-        }
+    }
     </style>
 
     <div class="ltn__slider-area ltn__slider-3 section-bg-2---">
@@ -156,28 +156,30 @@
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
     <script>
-        jQuery(function ($) {
-            // background images set karna
-            $('.bg-image').each(function () {
-                var bg = $(this).data('bg');
-                if (bg) { $(this).css('background-image', 'url(' + bg + ')'); }
-            });
-
-            // slick init with autoplay
-            $('.ltn__slide-one-active').slick({
-                infinite: true,
-                slidesToShow: 1,
-                slidesToScroll: 1,
-                arrows: false,
-                dots: false,
-                autoplay: true,
-                autoplaySpeed: 3000, // 3 seconds
-                pauseOnHover: false,
-                pauseOnFocus: false,
-                fade: true,          // smooth fade effect (optional)
-                cssEase: 'linear'
-            });
+    jQuery(function($) {
+        // background images set karna
+        $('.bg-image').each(function() {
+            var bg = $(this).data('bg');
+            if (bg) {
+                $(this).css('background-image', 'url(' + bg + ')');
+            }
         });
+
+        // slick init with autoplay
+        $('.ltn__slide-one-active').slick({
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            dots: false,
+            autoplay: true,
+            autoplaySpeed: 3000, // 3 seconds
+            pauseOnHover: false,
+            pauseOnFocus: false,
+            fade: true, // smooth fade effect (optional)
+            cssEase: 'linear'
+        });
+    });
     </script>
 
 
@@ -222,8 +224,9 @@
                 </div>
                 <!-- Blog Item -->
                 <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
-                    <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1" style="background-color: #F8F8F8;">
-                        <div class="ltn__blog-img" bis_skin_checked="1" >
+                    <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1"
+                        style="background-color: #F8F8F8;">
+                        <div class="ltn__blog-img" bis_skin_checked="1">
                             <a><img src="/img/plate-heat-exchanger.webp" alt="#"></a>
                         </div>
                         <div class="ltn__blog-brief" bis_skin_checked="1">
@@ -242,7 +245,7 @@
                 <!-- Blog Item -->
                 <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                     <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
-                        <div class="ltn__blog-img" bis_skin_checked="1" >
+                        <div class="ltn__blog-img" bis_skin_checked="1">
                             <a><img src="img/york/ymae 140 cooler.png"
                                     alt="York YMAE 140 air-cooled DC inverter scroll chiller" style="scale:0.75;"></a>
                         </div>
@@ -657,9 +660,9 @@
     <br><br>
 
     <style>
-        .hide {
-            display: none;
-        }
+    .hide {
+        display: none;
+    }
     </style>
 
     <div class="container" style="background-color: #F8F7FC;
@@ -1099,30 +1102,30 @@
 
     <!-- ✅ CAPTCHA Script -->
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            const qEl = document.getElementById("captchaQuestion");
-            const resEl = document.getElementById("captchaResult");
-            const inputEl = document.getElementById("captchaInput");
-            const form = document.getElementById("enquiryForm1");
+    document.addEventListener("DOMContentLoaded", function() {
+        const qEl = document.getElementById("captchaQuestion");
+        const resEl = document.getElementById("captchaResult");
+        const inputEl = document.getElementById("captchaInput");
+        const form = document.getElementById("enquiryForm1");
 
-            function generateCaptcha() {
-                let a = Math.floor(Math.random() * 10) + 1;
-                let b = Math.floor(Math.random() * 10) + 1;
-                qEl.textContent = `What is ${a} + ${b} = ?`;
-                resEl.value = a + b;
+        function generateCaptcha() {
+            let a = Math.floor(Math.random() * 10) + 1;
+            let b = Math.floor(Math.random() * 10) + 1;
+            qEl.textContent = `What is ${a} + ${b} = ?`;
+            resEl.value = a + b;
+        }
+
+        generateCaptcha();
+
+        form.addEventListener("submit", function(e) {
+            if (parseInt(inputEl.value) !== parseInt(resEl.value)) {
+                e.preventDefault();
+                alert("❌ Wrong CAPTCHA answer. Please try again.");
+                generateCaptcha();
+                inputEl.value = "";
             }
-
-            generateCaptcha();
-
-            form.addEventListener("submit", function (e) {
-                if (parseInt(inputEl.value) !== parseInt(resEl.value)) {
-                    e.preventDefault();
-                    alert("❌ Wrong CAPTCHA answer. Please try again.");
-                    generateCaptcha();
-                    inputEl.value = "";
-                }
-            });
         });
+    });
     </script>
 
     <br><br><br><br><br><br><br>
@@ -1211,23 +1214,23 @@
     <?php  include("common-section/footer.php"); ?>
 
     <script>
-        // Hide the extra content initially, using JS so that if JS is disabled, no problemo:
-        $('.read-more-content').addClass('hide')
-        $('.read-more-show, .read-more-hide').removeClass('hide')
+    // Hide the extra content initially, using JS so that if JS is disabled, no problemo:
+    $('.read-more-content').addClass('hide')
+    $('.read-more-show, .read-more-hide').removeClass('hide')
 
-        // Set up the toggle effect:
-        $('.read-more-show').on('click', function (e) {
-            $(this).next('.read-more-content').removeClass('hide');
-            $(this).addClass('hide');
-            e.preventDefault();
-        });
+    // Set up the toggle effect:
+    $('.read-more-show').on('click', function(e) {
+        $(this).next('.read-more-content').removeClass('hide');
+        $(this).addClass('hide');
+        e.preventDefault();
+    });
 
-        $('.read-more-hide').on('click', function (e) {
-            $(this).parent('.read-more-content').addClass('hide');
-            var moreid = $(this).attr("more-id");
-            $('.read-more-show#' + moreid).removeClass('hide');
-            e.preventDefault();
-        });
+    $('.read-more-hide').on('click', function(e) {
+        $(this).parent('.read-more-content').addClass('hide');
+        var moreid = $(this).attr("more-id");
+        $('.read-more-show#' + moreid).removeClass('hide');
+        e.preventDefault();
+    });
     </script>
 </body>
 
