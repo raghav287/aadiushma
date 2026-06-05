@@ -1,0 +1,514 @@
+[18-Jul-2023 09:52:30 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 67
+[18-Jul-2023 09:52:41 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 67
+[18-Jul-2023 09:52:58 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 69
+[18-Jul-2023 09:53:36 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 65
+[18-Jul-2023 09:53:49 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 67
+[18-Jul-2023 09:54:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/nad8ejecne8k/public_html/blog/wp-content/themes/neve/footer.php on line 64
+[06-Aug-2024 11:38:02 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 211
+[08-Jan-2025 12:02:16 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 211
+[08-Jan-2025 12:02:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 449
+[04-Mar-2025 15:55:13 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 730
+[07-Mar-2025 04:10:18 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 730
+[09-Dec-2025 14:44:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 211
+[14-Feb-2026 11:48:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 211
+[14-Feb-2026 11:48:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 449
+[14-Feb-2026 11:48:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 730
+[17-May-2026 05:52:03 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 211
+[17-May-2026 05:52:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 449
+[17-May-2026 05:52:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/nad8ejecne8k/public_html/blog/wp-includes/update.php on line 730
+[29-May-2026 00:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 00:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[29-May-2026 11:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[30-May-2026 11:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[31-May-2026 11:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[01-Jun-2026 11:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 00:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[02-Jun-2026 11:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 00:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[03-Jun-2026 11:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
+[04-Jun-2026 11:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP\MCP\Servers\wp_get_abilities() in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php:116
+Stack trace:
+#0 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php(39): WP\MCP\Servers\DefaultServerFactory::discover_abilities_by_type('resource')
+#1 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(310): WP\MCP\Servers\DefaultServerFactory::create(Object(WP\MCP\Core\McpAdapter))
+#2 /home/nad8ejecne8k/public_html/blog/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#3 /home/nad8ejecne8k/public_html/blog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Core/McpAdapter.php(83): do_action('mcp_adapter_ini...', Object(WP\MCP\Core\McpAdapter))
+# in /home/nad8ejecne8k/public_html/blog/wp-content/plugins/seo-by-rank-math/vendor/wordpress/mcp-adapter/includes/Servers/DefaultServerFactory.php on line 116
