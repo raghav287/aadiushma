@@ -39,7 +39,7 @@
                     <div class="footer-widget footer-about-widget">
                         <div class="footer-logo">
                             <div class="site-logo">
-                                <img src="img/aadiushma-new-footer-logo.png" alt="Logo">
+                                <img src="img/logo-23.png" alt="Logo">
                             </div>
                         </div>
                         <p style="font-size:15px;">Engineered professionally, our industrial equipment delivers quality

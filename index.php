@@ -686,7 +686,7 @@
             </div>
         </div>
         <!-- CATEGORY AREA END -->
-        <br><br>
+
 
         <style>
         .hide {
@@ -694,8 +694,7 @@
         }
         </style>
 
-        <div class="container" style="background-color: #F8F7FC;
-    padding: 2rem 1rem;">
+        <!-- <div class="container" style="background-color: #F8F7FC; padding: 2rem 1rem;">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2 text-center">
@@ -925,13 +924,15 @@
 
 
             </article>
-        </div>
+        </div> -->
+
+        <?php  include("include/our-clients.php"); ?>
+
 
 
 
         <!-- TESTIMONIAL AREA START (testimonial-7) -->
-        <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-30 pb-0" data-bg="img/bg/20.jpg"
-            style="margin-top:48px;">
+        <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-30 pb-0" data-bg="img/bg/20.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
