@@ -515,23 +515,29 @@
         <!-- BLOG AREA END -->
 
         <!-- CALL TO ACTION START (call-to-action-6) -->
-        <div class="ltn__call-to-action-area call-to-action-6 before-bg-left-skew ltn__secondary-bg bg-image pt-50 pb-50"
-            data-bg="img/home.webp">
+        <div class="ltn__call-to-action-area pt-60 pb-60"
+            style="background: linear-gradient(135deg, #1863AB 0%, #0f4a81 100%);">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="call-to-action-inner call-to-action-inner-6 p-0 text-center---">
-                            <div class="section-title-area ltn__section-title-2--- mb-0 text-color-white">
-                                <h2 class="section-title" style="font-size:33px;">Get hassle-free operations with our
-                                    <br>
-                                    top-notch mechanical equipment and service
-                                </h2>
-                            </div>
-                            <div class="btn-wrapper">
-                                <a class="btn btn-effect-4 btn-white font-weight-bold"
-                                    href="tel:9357305272">+91-9357305272
-                                </a>
-                            </div>
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-10 text-center">
+                        <h2
+                            style="color: #fff; font-size: 42px; margin-bottom: 20px; font-weight: 800; line-height: 1.2;">
+                            Let's Make Your Operations
+                            <span style="color: #ffd700;">Hassle-Free</span>
+                        </h2>
+                        <p style="color: #e0e7ff; font-size: 20px; margin-bottom: 35px; line-height: 1.6;">
+                            Our premium mechanical equipment and expert service are tailored to your needs. Reach out
+                            today!
+                        </p>
+                        <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
+                            <a href="tel:9357305272"
+                                style="background: #fff; color: #1863AB; padding: 18px 40px; border-radius: 50px; font-size: 20px; font-weight: 700; text-decoration: none; box-shadow: 0 6px 20px rgba(0,0,0,0.2); transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-phone-volume"></i> +91-9357305272
+                            </a>
+                            <a href="mailto:business@aadiushmaa.com"
+                                style="background: transparent; color: #fff; border: 2px solid #fff; padding: 18px 40px; border-radius: 50px; font-size: 20px; font-weight: 700; text-decoration: none; transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-envelope-open"></i> Send Email
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -539,9 +545,9 @@
         </div>
         <!-- CALL TO ACTION END -->
 
-        <br><br>
+
         <!-- ABOUT US AREA START -->
-        <div class="ltn__about-us-area section-bg-1 bg-image pt-30 pb-30" data-bg="img/bg/31.jpg">
+        <div class="ltn__about-us-area section-bg-1 bg-image pt-60 pb-30" data-bg="img/bg/31.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -623,9 +629,9 @@
         <!-- ABOUT US AREA END -->
 
 
-        <br><br>
+
         <!-- COUNTER UP AREA START -->
-        <div class="ltn__counterup-area section-bg-1 pt-30 pb-20">
+        <div class="ltn__counterup-area section-bg-1 pt-30 pb-20 bg-white">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3 col-sm-6 align-self-center">
@@ -663,7 +669,7 @@
                     </div>
                 </div>
             </div>
-        </div><br>
+        </div>
         <!-- COUNTER UP AREA END -->
 
         <!-- ABOUT US AREA START -->
@@ -790,6 +796,20 @@
             background: linear-gradient(135deg, #0f4a81 0%, #1863AB 100%);
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(24, 99, 171, 0.4);
+        }
+
+        /* CTA Button Hover Effects */
+        .ltn__call-to-action-area a:hover {
+            transform: translateY(-3px);
+        }
+
+        .ltn__call-to-action-area a[href^="tel:"]:hover {
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        .ltn__call-to-action-area a[href^="mailto:"]:hover {
+            background: #fff;
+            color: #1863AB;
         }
         </style>
 
