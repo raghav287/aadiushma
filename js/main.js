@@ -351,14 +351,14 @@
             15. Slider One Active 
         --------------------------------------------------------- */
         $('.ltn__slide-one-active').slick({
-            autoplay: false,
-            autoplaySpeed: 2000,
+            autoplay: true,
+            autoplaySpeed: 4000,
             arrows: true,
-            dots: false,
+            dots: true,
             fade: true,
             cssEase: 'linear',
             infinite: true,
-            speed: 300,
+            speed: 400,
             slidesToShow: 1,
             slidesToScroll: 1,
             prevArrow: '<a class="slick-prev"><i class="fas fa-arrow-left" alt="Arrow Icon"></i></a>',
@@ -367,7 +367,7 @@
                 {
                     breakpoint: 1200,
                     settings: {
-                        arrows: false,
+                        arrows: true,
                         dots: true,
                     }
                 }

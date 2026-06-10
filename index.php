@@ -25,6 +25,7 @@
         min-height: 420px;
     }
 
+
     /* CTA Button Hover Effects */
     .ltn__call-to-action-area a:hover {
         transform: translateY(-3px);
@@ -147,6 +148,83 @@
         visibility: visible !important;
     }
 
+    /* Main Hero Slider custom arrows & dots positioning */
+    .ltn__slide-one-active .slick-arrow {
+        position: absolute !important;
+        top: auto !important;
+        bottom: 35px !important;
+        transform: none !important;
+        width: 36px !important;
+        height: 36px !important;
+        line-height: 32px !important;
+        border: 2px solid #000000 !important;
+        /* Black border */
+        background-color: #ffffff !important;
+        /* White background to make it stand out */
+        color: #000000 !important;
+        /* Black arrow icon */
+        border-radius: 50% !important;
+        text-align: center !important;
+        font-size: 14px !important;
+        z-index: 10 !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        transition: all 0.3s ease !important;
+        cursor: pointer !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .ltn__slide-one-active .slick-arrow:hover {
+        background-color: #000000 !important;
+        /* Black background on hover */
+        color: #ffffff !important;
+        /* White arrow on hover */
+    }
+
+    /* Position previous arrow to the left of the dots */
+    .ltn__slide-one-active .slick-prev {
+        left: calc(50% - 95px) !important;
+        right: auto !important;
+    }
+
+    /* Position next arrow to the right of the dots */
+    .ltn__slide-one-active .slick-next {
+        left: calc(50% + 55px) !important;
+        right: auto !important;
+    }
+
+    /* Hover constraints override */
+    .ltn__slide-one-active:hover .slick-prev {
+        left: calc(50% - 95px) !important;
+    }
+
+    .ltn__slide-one-active:hover .slick-next {
+        left: calc(50% + 55px) !important;
+    }
+
+    /* Center and style the dots container */
+    .ltn__slide-one-active .slick-dots {
+        position: absolute !important;
+        bottom: 43px !important;
+        width: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+        text-align: center !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        z-index: 5 !important;
+        pointer-events: none !important;
+    }
+
+    .ltn__slide-one-active .slick-dots li {
+        display: inline-block !important;
+        margin: 0 4px !important;
+        pointer-events: auto !important;
+    }
+
     /* Tablet */
     @media (max-width: 991px) {
         .ltn__slide-item {
@@ -164,6 +242,34 @@
 
         .slick-dots li.slick-active button:before {
             color: #1863AB;
+        }
+
+        .ltn__slide-one-active .slick-arrow {
+            bottom: 15px !important;
+            width: 30px !important;
+            height: 30px !important;
+            line-height: 26px !important;
+            font-size: 12px !important;
+        }
+
+        .ltn__slide-one-active .slick-prev {
+            left: calc(50% - 75px) !important;
+        }
+
+        .ltn__slide-one-active .slick-next {
+            left: calc(50% + 45px) !important;
+        }
+
+        .ltn__slide-one-active:hover .slick-prev {
+            left: calc(50% - 75px) !important;
+        }
+
+        .ltn__slide-one-active:hover .slick-next {
+            left: calc(50% + 45px) !important;
+        }
+
+        .ltn__slide-one-active .slick-dots {
+            bottom: 22px !important;
         }
     }
     </style>
@@ -188,31 +294,7 @@
         </div>
         <!-- SLIDER AREA END -->
 
-        <!-- jQuery & Slick JS -->
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
-        <script>
-        jQuery(function($) {
-            // Set background images
-            $('.bg-image').each(function() {
-                var bg = $(this).data('bg');
-                if (bg) {
-                    $(this).css('background-image', 'url(' + bg + ')');
-                }
-            });
-
-            // Initialize main slider
-            $('.ltn__slide-one-active').slick({
-                arrows: true,
-                dots: true,
-                slidesToScroll: 1,
-                autoplay: true,
-                autoplaySpeed: 3000,
-                pauseOnHover: false
-            });
-        });
-        </script>
 
 
 
@@ -1080,7 +1162,7 @@
 
 
         <!-- TESTIMONIAL AREA START (testimonial-7) -->
-        <div class="ltn__testimonial-area pt-60 pb-60" style="background: #f8f9fa;">
+       <div class="ltn__testimonial-area pt-60 pb-60" style="background: #f8f9fa;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -1471,7 +1553,7 @@
                     width: 100%;
                     padding: 22px 28px;
                     text-align: left;
-                    background: #000000;
+                    background: #0755A0;
                     color: white;
                     border: none;
                     font-size: 17px;
@@ -1485,7 +1567,7 @@
                 }
 
                 .faq-question:hover {
-                    background: #1a1a1a;
+                    background: #0755A0;
                 }
 
                 .faq-question .faq-icon-wrapper {
