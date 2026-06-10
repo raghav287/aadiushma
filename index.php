@@ -208,7 +208,7 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3 ymae-card" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="/img/water-cooled-chiller.webp" alt="York YCWE Chiller"></a>
+                                <a><img src="img/water-cooled-chiller.webp" alt="York YCWE Chiller"></a>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="water-cooled-chiller.php"
@@ -230,7 +230,7 @@
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1"
                             style="background-color: #F8F8F8;">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="/img/plate-heat-exchanger.webp" alt="#"></a>
+                                <a><img src="img/plate-heat-exchanger.webp" alt="#"></a>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="heat-exchanger-manufacturer.php"
@@ -338,7 +338,7 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="/img/prdc2.webp" alt="#"></a>
+                                <a><img src="img/prdc2.webp" alt="#"></a>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="air-compressor-manufacturer.php"
@@ -357,7 +357,7 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="/img/air-dryer.webp" alt="#"></a>
+                                <a><img src="img/air-dryer.webp" alt="#"></a>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="air-dryer-manufacturer.php"
