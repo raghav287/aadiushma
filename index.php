@@ -140,6 +140,13 @@
         background-position: center;
     }
 
+    /* Make slider arrows always visible (static) */
+    .ltn__slider-area .slick-arrow {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+
     /* Tablet */
     @media (max-width: 991px) {
         .ltn__slide-item {
@@ -158,6 +165,7 @@
         .slick-dots li.slick-active button:before {
             color: #1863AB;
         }
+    }
     </style>
 
     <div class="ltn__slider-area ltn__slider-3 section-bg-2---">
@@ -176,8 +184,6 @@
             <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3 bg-image bg-overlay-theme-black-60---"
                 data-bg="img/3.png">
                 <div class="ltn__slide-item-inner text-left"></div>
-                <i class="fas fa-pause"></i>
-                </button>
             </div>
         </div>
         <!-- SLIDER AREA END -->
@@ -188,29 +194,24 @@
 
         <script>
         jQuery(function($) {
-                    // background images set karna
-                    $('.bg-image').each(function() {
-                                var bg = $(this).data('bg');
-                                if (bg) {
-                                    $(this).css('background-image', 'url(' + bg + ')');
-                                }
-                                $('.ltn__slide-one-active').slick({
+            // Set background images
+            $('.bg-image').each(function() {
+                var bg = $(this).data('bg');
+                if (bg) {
+                    $(this).css('background-image', 'url(' + bg + ')');
+                }
+            });
 
-                                        // slick init with autoplay
-                                        var slider = $('.ltn__slide-one-active').slick({
-                                                arrows: false,
-                                                dots: false,
-                                                slidesToScroll: 1,
-                                                arrows: true,
-                                                dots: true,
-                                                autoplay: true,
-                                                autoplaySpeed: 3000, // 3 seconds
-                                                pauseOnHover: false,
-                                                $(this).html('<i class="fas fa-pause"></i>');
-                                            }
-                                            isPlaying = !isPlaying;
-                                        });
-                                });
+            // Initialize main slider
+            $('.ltn__slide-one-active').slick({
+                arrows: true,
+                dots: true,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 3000,
+                pauseOnHover: false
+            });
+        });
         </script>
 
 

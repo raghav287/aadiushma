@@ -56,8 +56,8 @@
 
         <div class="ltn__utilize-overlay"></div>
         <!-- BREADCRUMB AREA START -->
-        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "
-            data-bg="img/other-page-banner-img.png" style="height:236px;padding-top: 62px;margin-bottom: 0px;">
+        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image " data-bg="img/about-banner.png"
+            style="height:236px;padding-top: 62px;margin-bottom: 0px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -302,8 +302,8 @@
                             style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p> Working with Aadiushmaa Engineers Pvt. Ltd. was a fantastic experience. Their team
-                                    is professional and knowledgeable. They provided me with a top-quality product that
-                                    exceeded my expectations. They are the go-to company for all my industrial equipment
+                                    is professional and knowledgeable. Exceeded my expectations with a top-quality
+                                    product. They are the go-to company for all my industrial equipment
                                     needs. <br> <b> - Shubdeep Singh Sidhu, Pharmaceutical Industry -</b></p>
                             </div>
                         </div>
