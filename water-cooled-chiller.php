@@ -222,13 +222,17 @@ Side -2 – flow/temp in and out / pressure drop (if specific)"
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
-                    <div class="ltn__team-details-member-info text-center mb-40">
-                        <div class="team-details-img"><br>
-                             <img src="img/york-logo.png" alt="York Logo">   <br><br><br>
-                            <img src="/img/water-cooled-chiller.webp" alt="York YCWE Water-Cooled Chiller" style="border-radius:12px;">
+                        <div class="ltn__team-details-member-info text-center mb-40">
+                            <div class="team-details-img"><br>
+                                <img src="img/york-logo.png" alt="York Logo">   <br><br><br>
+                                <div class="product-img-carousel">
+                                    <div><img src="/img/water-cooled-chiller.webp" alt="York YCWE Water-Cooled Chiller - Angle 1" style="border-radius:12px;"></div>
+                                    <div><img src="/img/water-cooled-chiller.webp" alt="York YCWE Water-Cooled Chiller - Angle 2" style="border-radius:12px;"></div>
+                                    <div><img src="/img/water-cooled-chiller.webp" alt="York YCWE Water-Cooled Chiller - Angle 3" style="border-radius:12px;"></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
                 <div class="col-lg-8">
                     <div class="ltn__team-details-member-info-details">
                         <h2>Premium York YCWE Water-Cooled Chiller Solutions from Aadiushmaa</h2>
@@ -764,5 +768,25 @@ document.addEventListener("DOMContentLoaded", function () {
  
     <br><br><br>
     <? include( "common-section/footer.php" ); ?>
+    <script>
+        // Initialize product image carousel after all scripts are loaded
+        window.addEventListener('load', function() {
+            if (typeof jQuery !== 'undefined') {
+                jQuery(document).ready(function($) {
+                    $('.product-img-carousel').slick({
+                        dots: true,
+                        infinite: true,
+                        speed: 500,
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        adaptiveHeight: true,
+                        arrows: false,
+                        autoplay: true,
+                        autoplaySpeed: 4000
+                    });
+                });
+            }
+        });
+    </script>
 </body>
 </html>

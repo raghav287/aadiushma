@@ -208,7 +208,14 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3 ymae-card" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/water-cooled-chiller.webp" alt="York YCWE Chiller"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/water-cooled-chiller.webp" alt="York YCWE Chiller - Angle 1">
+                                    </div>
+                                    <div><img src="img/water-cooled-chiller.webp" alt="York YCWE Chiller - Angle 2">
+                                    </div>
+                                    <div><img src="img/water-cooled-chiller.webp" alt="York YCWE Chiller - Angle 3">
+                                    </div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="water-cooled-chiller.php"
@@ -230,7 +237,14 @@
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1"
                             style="background-color: #F8F8F8;">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/plate-heat-exchanger.webp" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/plate-heat-exchanger.webp" alt="Plate Heat Exchanger - Angle 1">
+                                    </div>
+                                    <div><img src="img/plate-heat-exchanger.webp" alt="Plate Heat Exchanger - Angle 2">
+                                    </div>
+                                    <div><img src="img/plate-heat-exchanger.webp" alt="Plate Heat Exchanger - Angle 3">
+                                    </div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="heat-exchanger-manufacturer.php"
@@ -250,9 +264,17 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/york/ymae 140 cooler.png"
-                                        alt="York YMAE 140 air-cooled DC inverter scroll chiller"
-                                        style="scale:0.75;"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/york/ymae 140 cooler.png"
+                                            alt="York YMAE 140 air-cooled DC inverter scroll chiller - Angle 1"
+                                            style="scale:0.75;"></div>
+                                    <div><img src="img/york/ymae 140 cooler.png"
+                                            alt="York YMAE 140 air-cooled DC inverter scroll chiller - Angle 2"
+                                            style="scale:0.75;"></div>
+                                    <div><img src="img/york/ymae 140 cooler.png"
+                                            alt="York YMAE 140 air-cooled DC inverter scroll chiller - Angle 3"
+                                            style="scale:0.75;"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="hi-wall-indoor-unit.php"
@@ -271,7 +293,14 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/fcu.webp" alt="York FCU Chilled Water Indoor Unit"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/fcu.webp" alt="York FCU Chilled Water Indoor Unit - Angle 1">
+                                    </div>
+                                    <div><img src="img/fcu.webp" alt="York FCU Chilled Water Indoor Unit - Angle 2">
+                                    </div>
+                                    <div><img src="img/fcu.webp" alt="York FCU Chilled Water Indoor Unit - Angle 3">
+                                    </div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="fcu-chilled-water.php"
@@ -292,7 +321,14 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/york-ceiling-cassette.webp" alt="Ceiling Cassette Air Conditioner"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/york-ceiling-cassette.webp"
+                                            alt="Ceiling Cassette Air Conditioner - Angle 1"></div>
+                                    <div><img src="img/york-ceiling-cassette.webp"
+                                            alt="Ceiling Cassette Air Conditioner - Angle 2"></div>
+                                    <div><img src="img/york-ceiling-cassette.webp"
+                                            alt="Ceiling Cassette Air Conditioner - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="york-ceiling-cassette.php"
@@ -314,7 +350,14 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/one-way-cassette-fcu.png" alt="One Way Cassette Fan Coil Unit"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/one-way-cassette-fcu.png"
+                                            alt="One Way Cassette Fan Coil Unit - Angle 1"></div>
+                                    <div><img src="img/one-way-cassette-fcu.png"
+                                            alt="One Way Cassette Fan Coil Unit - Angle 2"></div>
+                                    <div><img src="img/one-way-cassette-fcu.png"
+                                            alt="One Way Cassette Fan Coil Unit - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="one-way-cassette-fcu.php"
@@ -338,7 +381,11 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/prdc2.webp" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/prdc2.webp" alt="Air Compressor - Angle 1"></div>
+                                    <div><img src="img/prdc2.webp" alt="Air Compressor - Angle 2"></div>
+                                    <div><img src="img/prdc2.webp" alt="Air Compressor - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="air-compressor-manufacturer.php"
@@ -357,7 +404,11 @@
                     <div class="col-lg-4 col-sm-6 col-12" bis_skin_checked="1">
                         <div class="ltn__blog-item ltn__blog-item-3" bis_skin_checked="1">
                             <div class="ltn__blog-img" bis_skin_checked="1">
-                                <a><img src="img/air-dryer.webp" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/air-dryer.webp" alt="Air Dryer - Angle 1"></div>
+                                    <div><img src="img/air-dryer.webp" alt="Air Dryer - Angle 2"></div>
+                                    <div><img src="img/air-dryer.webp" alt="Air Dryer - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief" bis_skin_checked="1">
                                 <h3 class="ltn__blog-title animated fadeIn"><a href="air-dryer-manufacturer.php"
@@ -379,11 +430,18 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a><img src="img/Vapour Absorption Machine.jpeg" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/Vapour Absorption Machine.jpeg"
+                                            alt="Vapour Absorption Machine - Angle 1"></div>
+                                    <div><img src="img/Vapour Absorption Machine.jpeg"
+                                            alt="Vapour Absorption Machine - Angle 2"></div>
+                                    <div><img src="img/Vapour Absorption Machine.jpeg"
+                                            alt="Vapour Absorption Machine - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief">
                                 <h3 class="ltn__blog-title"><a
-                                        href="hhttps://www.aadiushmaa.com/vapour-absorption-machine.php">Vapour
+                                        href="https://www.aadiushmaa.com/vapour-absorption-machine.php">Vapour
                                         Absorption
                                         Machine</a></h3>
                                 <p> A vapour absorption machine uses heat energy to provide eco-friendly,
@@ -401,7 +459,11 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a><img src="img/Heat recovery Unit.png" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/Heat recovery Unit.png" alt="Heat Recovery Unit - Angle 1"></div>
+                                    <div><img src="img/Heat recovery Unit.png" alt="Heat Recovery Unit - Angle 2"></div>
+                                    <div><img src="img/Heat recovery Unit.png" alt="Heat Recovery Unit - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief">
                                 <h3 class="ltn__blog-title"><a
@@ -422,7 +484,14 @@
                     <div class="col-lg-4 col-sm-6 col-12">
                         <div class="ltn__blog-item ltn__blog-item-3">
                             <div class="ltn__blog-img">
-                                <a><img src="img/Air Leak detections.jpg" alt="#"></a>
+                                <div class="product-img-carousel">
+                                    <div><img src="img/Air Leak detections.jpg"
+                                            alt="Air Leak Detection Service - Angle 1"></div>
+                                    <div><img src="img/Air Leak detections.jpg"
+                                            alt="Air Leak Detection Service - Angle 2"></div>
+                                    <div><img src="img/Air Leak detections.jpg"
+                                            alt="Air Leak Detection Service - Angle 3"></div>
+                                </div>
                             </div>
                             <div class="ltn__blog-brief">
                                 <h3 class="ltn__blog-title"><a
@@ -691,6 +760,36 @@
         <style>
         .hide {
             display: none;
+        }
+
+        /* Product carousel styles */
+        .product-img-carousel {
+            width: 100%;
+        }
+
+        .product-img-carousel img {
+            width: 100%;
+            height: 300px;
+            object-fit: contain;
+        }
+
+        /* Improved read more button */
+        .ltn__blog-btn a {
+            display: inline-block;
+            background: linear-gradient(135deg, #1863AB 0%, #0f4a81 100%);
+            color: white;
+            padding: 10px 30px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(24, 99, 171, 0.3);
+        }
+
+        .ltn__blog-btn a:hover {
+            background: linear-gradient(135deg, #0f4a81 0%, #1863AB 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(24, 99, 171, 0.4);
         }
         </style>
 
@@ -1544,6 +1643,21 @@
             var moreid = $(this).attr("more-id");
             $('.read-more-show#' + moreid).removeClass('hide');
             e.preventDefault();
+        });
+
+        // Initialize product image carousels
+        jQuery(document).ready(function($) {
+            $('.product-img-carousel').slick({
+                dots: true,
+                infinite: true,
+                speed: 500,
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                adaptiveHeight: true,
+                arrows: false,
+                autoplay: true,
+                autoplaySpeed: 4000
+            });
         });
         </script>
 </body>
