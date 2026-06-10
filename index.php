@@ -11,6 +11,34 @@
     <?php include("common-section/header-link.php"); ?>
 
     <style>
+    .ltn__testimonial-slider-5-active {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .testimonial-col {
+        height: 100%;
+    }
+
+    .ltn__testimonial-item.ltn__testimonial-item-7 {
+        height: 100%;
+        min-height: 420px;
+    }
+
+    /* CTA Button Hover Effects */
+    .ltn__call-to-action-area a:hover {
+        transform: translateY(-3px);
+    }
+
+    .ltn__call-to-action-area a[href^="contact"]:hover {
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+    }
+
+    .ltn__call-to-action-area a[href^="tel"]:hover {
+        background: #fff;
+        color: #1863AB;
+    }
+
     .read-more-hide {
         margin-left: 520px;
     }
@@ -1051,142 +1079,110 @@
 
 
         <!-- TESTIMONIAL AREA START (testimonial-7) -->
-        <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-30 pb-0" data-bg="img/bg/20.jpg">
+        <div class="ltn__testimonial-area pt-60 pb-60" style="background: #f8f9fa;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="section-title-area ltn__section-title-2 text-center">
-
-                            <h3 class="section-title">Client Feedback</h3>
+                        <div class="section-title-area ltn__section-title-2 text-center mb-50">
+                            <h6 class="section-subtitle ltn__secondary-color"
+                                style="text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px;">What Our
+                                Clients Say</h6>
+                            <h2 class="section-title" style="color: #0f4a81; font-size: 40px; font-weight: 800;">Client
+                                Feedback</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row ltn__testimonial-slider-5-active slick-arrow-1">
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
-                                <p>
-                                    Aadiushmaa Engineers Pvt. Ltd. has provided me with excellent service and
-                                    unparalleled
-                                    knowledge for well over a year. Their technical staff is very educated, and they
-                                    were
-                                    able to recommend the best equipment for our industry-specific needs. <br><b> - Anil
-                                        Gupta, Oil and Gas <br>Industry -</b>
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
+                                <p> Aadiushmaa Engineers Pvt. Ltd. has provided me with excellent service and
+                                    unparalleled knowledge for well over a year. Their technical staff is very educated,
+                                    and they were able to recommend the best equipment for our industry-specific needs.
+                                    <br><b> - Anil Gupta, Oil and Gas <br>Industry -</b>
                                 </p>
                                 <br>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
-                                <p>
-                                    I have been working with Aadiushmaa Engineers Pvt. Ltd. for several years now, and I
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
+                                <p>I have been working with Aadiushmaa Engineers Pvt. Ltd. for several years now, and I
                                     must say, their service and expertise are top-notch. From the very first
-                                    interaction, I
-                                    was impressed with their professionalism and the knowledge they brought to the
-                                    table.
-                                    <br><b>- Parveen Bhatia, Food and Beverage Industry -</b>
-                                </p>
-
+                                    interaction, I was impressed with their professionalism and the knowledge they
+                                    brought to the table. <br><b>- Parveen Bhatia, Food and Beverage Industry -</b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
-                                <p>
-                                    Their commitment to customer satisfaction is commendable, and I can confidently say
-                                    that
-                                    they go above and beyond to ensure that their clients are always happy. The team at
-                                    Aadiushmaa Engineers Pvt. Ltd. is trustworthy, reliable, and always willing to help.
-                                    <br> <b>- Naresh Mehra, Chemical and Petrochemical Industry -</b>
-
-                                </p>
-
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
+                                <p>Their commitment to customer satisfaction is commendable, and I can confidently say
+                                    that they go above and beyond to ensure that their clients are always happy. The
+                                    team at Aadiushmaa Engineers Pvt. Ltd. is trustworthy, reliable, and always willing
+                                    to help. <br> <b>- Naresh Mehra, Chemical and Petrochemical Industry -</b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
-                                <p>
-                                    Working with Aadiushmaa Engineers Pvt. Ltd. was a fantastic experience. Their team
-                                    is
-                                    professional and knowledgeable. They provided me with a top-quality product that
-                                    exceeded my expectations. They are the go-to company for all my industrial equipment
-                                    needs. <br> <b> - Shubdeep Singh Sidhu, Pharmaceutical Industry -</b>
-
-                                </p>
-
+                                <p> Working with Aadiushmaa Engineers Pvt. Ltd. was a fantastic experience. Their team
+                                    is professional and knowledgeable. Exceeded my expectations with a top-quality
+                                    product. They are the go-to company for all my industrial equipment
+                                    needs. <br> <b> - Shubdeep Singh Sidhu, Pharmaceutical Industry -</b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
-                                <p>
-                                    Aadiushmaa Engineers Pvt. Ltd. has been our go-to supplier for mechanical equipment
-                                    for
-                                    years, and we have never been disappointed. They offer a comprehensive range of
+                                <p>Aadiushmaa Engineers Pvt. Ltd. has been our go-to supplier for mechanical equipment
+                                    for years, and we have never been disappointed. They offer a comprehensive range of
                                     high-quality products that meet our specific needs and requirements. <br><b>- Naman
-                                        Gupta, Power Generation Industry - </b>
-
-
-                                </p>
-
+                                        Gupta, Power Generation Industry - </b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
-                                <p>
-                                    Working with Aadiushmaa Engineers Pvt. Ltd. has been an absolute pleasure. Their
-                                    staff
-                                    is knowledgeable and professional, and they always stretch at par to ensure customer
-                                    satisfaction. We highly recommend their services. <br><b>- Prabh Grewal, Automobile
-                                        Industry - </b>
-
-
-
-                                </p>
-
+                                <p>Working with Aadiushmaa Engineers Pvt. Ltd. has been an absolute pleasure. Their
+                                    staff is knowledgeable and professional, and they always stretch at par to ensure
+                                    customer satisfaction. We highly recommend their services. <br><b>- Prabh Grewal,
+                                        Automobile Industry - </b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
-                                <p>
-                                    What sets Aadiushmaa Engineers Pvt. Ltd. apart from other suppliers is their focus
-                                    on
+                                <p>What sets Aadiushmaa Engineers Pvt. Ltd. apart from other suppliers is their focus on
                                     research and development. They are always looking for ways to improve their products
-                                    and
-                                    solutions to meet changing industry demands, which has been invaluable to our
-                                    business.
-                                    <br><b> - Partap Singh, Pulp and Paper Industry -</b>
-
-                                </p>
-
+                                    and solutions to meet changing industry demands, which has been invaluable to our
+                                    business. <br><b> - Partap Singh, Pulp and Paper Industry -</b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
-                                <p>
-                                    Aadiushmaa Engineers Pvt. Ltd.'s in-house manufacturing capabilities have been a
+                                <p>Aadiushmaa Engineers Pvt. Ltd.'s in-house manufacturing capabilities have been a
                                     game-changer for our business. We have complete confidence in the quality of their
                                     products, and their timely delivery has helped us meet project deadlines. <br><b>-
-                                        sharan Grewal, Marine Industry</b>
-
-                                </p>
-
+                                        Sharan Grewal, Marine Industry</b></p>
                             </div>
                         </div>
                     </div>
-                    <!--  -->
                 </div>
             </div>
         </div>

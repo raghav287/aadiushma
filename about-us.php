@@ -16,6 +16,35 @@
         margin-top: 12px;
         font-size: 17px;
     }
+
+    /* Make all testimonial columns and items same height */
+    .ltn__testimonial-slider-5-active {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .testimonial-col {
+        height: 100%;
+    }
+
+    .ltn__testimonial-item.ltn__testimonial-item-7 {
+        height: 100%;
+        min-height: 420px;
+    }
+
+    /* CTA Button Hover Effects */
+    .ltn__call-to-action-area a:hover {
+        transform: translateY(-3px);
+    }
+
+    .ltn__call-to-action-area a[href^="contact"]:hover {
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+    }
+
+    .ltn__call-to-action-area a[href^="tel"]:hover {
+        background: #fff;
+        color: #1863AB;
+    }
     </style>
 
 </head>
@@ -28,7 +57,7 @@
         <div class="ltn__utilize-overlay"></div>
         <!-- BREADCRUMB AREA START -->
         <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "
-            data-bg="img/other-page-banner-img.png" style="height:236px;padding-top: 62px;margin-bottom: 81px;">
+            data-bg="img/other-page-banner-img.png" style="height:236px;padding-top: 62px;margin-bottom: 0px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -51,7 +80,7 @@
         <!-- BREADCRUMB AREA END -->
 
         <!-- ABOUT US AREA START -->
-        <div class="ltn__about-us-area pt-120--- pb-120">
+        <div class="ltn__about-us-area pt-60 pb-60">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -89,28 +118,102 @@
         <!-- ABOUT US AREA END -->
 
         <!-- CALL TO ACTION START (call-to-action-4) -->
-        <div class="ltn__call-to-action-area ltn__call-to-action-4 bg-image" data-bg="img/call-back-img.png">
-            <div class="container">
-                <div class="row">
+        <div class="ltn__call-to-action-area pt-60 pb-60" style="background: black;">
+            <div class="container" style="position: relative; z-index: 1;">
+                <div class="row align-items-center">
+                    <div class="col-lg-7">
+                        <h6
+                            style="color: #e0e7ff; font-size: 16px; font-weight: 600; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 15px;">
+                            Ready to Elevate Your Operations?</h6>
+                        <h2
+                            style="color: #fff; font-size: 44px; margin-bottom: 20px; font-weight: 800; line-height: 1.2;">
+                            Engineering Excellence<br><span style="color: #ffd700;">Delivering Custom Solutions</span>
+                        </h2>
+                        <p style="color: #e0e7ff; font-size: 18px; margin-bottom: 0;">
+                            For over two decades, we've been the trusted partner for industrial businesses seeking
+                            reliable mechanical equipment and expert service. From heat exchangers to air compressors,
+                            we deliver quality that lasts.
+                        </p>
+                    </div>
+                    <div class="col-lg-5 text-lg-end">
+                        <div style="display: flex; flex-direction: column; gap: 20px; align-items: flex-end;">
+                            <a href="contact-us.php"
+                                style="background: #fff; color: #1863AB; padding: 18px 45px; border-radius: 50px; font-size: 18px; font-weight: 700; text-decoration: none; box-shadow: 0 6px 20px rgba(0,0,0,0.2); transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-file-alt"></i> Get a Free Quote
+                            </a>
+                            <a href="tel:9357305272"
+                                style="background: transparent; color: #fff; border: 2px solid #fff; padding: 18px 45px; border-radius: 50px; font-size: 18px; font-weight: 700; text-decoration: none; transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-phone-alt"></i> Call Us Now
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="row mt-50">
                     <div class="col-lg-12">
-                        <div class="call-to-action-inner call-to-action-inner-4 text-center--- pt-115 pb-120">
-                            <div class="section-title-area ltn__section-title-2">
-                                <h2 class="section-title white-color">Engineering excellence <br>delivering solutions
-                                </h2>
+                        <div style="display: flex; gap: 80px; justify-content: center; flex-wrap: wrap;">
+                            <div style="text-align: center;">
+                                <h3 style="color: #fff; font-size: 36px; font-weight: 800; margin-bottom: 5px;">25+</h3>
+                                <p style="color: #e0e7ff; font-size: 16px; margin: 0;">Years Experience</p>
                             </div>
-                            <div class="btn-wrapper">
-                                <a href="contact-us" class="theme-btn-1 btn btn-effect-1">Get a Quote</a>
+                            <div style="text-align: center;">
+                                <h3 style="color: #fff; font-size: 36px; font-weight: 800; margin-bottom: 5px;">500+</h3>
+                                <p style="color: #e0e7ff; font-size: 16px; margin: 0;">Happy Clients</p>
+                            </div>
+                            <div style="text-align: center;">
+                                <h3 style="color: #fff; font-size: 36px; font-weight: 800; margin-bottom: 5px;">1000+</h3>
+                                <p style="color: #e0e7ff; font-size: 16px; margin: 0;">Projects Done</p>
                             </div>
                         </div>
-                        <div class="ltn__call-to-4-img-2">
-                            <img src="img/man-img.png" alt="#">
+                    </div>
+                </div> -->
+            </div>
+            <div
+                style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: rgba(255,255,255,0.05); border-radius: 50%;">
+            </div>
+            <div
+                style="position: absolute; bottom: -50px; left: -50px; width: 150px; height: 150px; background: rgba(255,255,255,0.05); border-radius: 50%;">
+            </div>
+        </div>
+        <!-- CALL TO ACTION END -->
+        <div class="ltn__counterup-area section-bg-1 pt-30 pb-20 bg-white">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 align-self-center">
+                        <div class="ltn__counterup-item text-color-white---">
+                            <div class="counter-icon">
+                            </div>
+                            <h3><span class="counter">30</span><span class="counterUp-icon">+</span> </h3>
+                            <h6>Years of Industry Experience</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 align-self-center">
+                        <div class="ltn__counterup-item text-color-white---">
+                            <div class="counter-icon">
+                            </div>
+                            <h3><span class="counter">250</span><span class="counterUp-letter">+</span><span
+                                    class="counterUp-icon"></span> </h3>
+                            <h6>Satisfied Clients Nationwide</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 align-self-center">
+                        <div class="ltn__counterup-item text-color-white---">
+                            <div class="counter-icon">
+                            </div>
+                            <h3><span class="counter">268</span><span class="counterUp-icon">+</span> </h3>
+                            <h6>Total Project Done</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 align-self-center">
+                        <div class="ltn__counterup-item text-color-white---">
+                            <div class="counter-icon">
+                            </div>
+                            <h3><span class="counter">250</span><span class="counterUp-icon">+</span> </h3>
+                            <h6>Happy Clients</h6>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- CALL TO ACTION END -->
-        <br><br><br>
         <!-- ABOUT US AREA START -->
         <div class="ltn__about-us-area section-bg-6 bg-image-right-before pt-50 pb-50">
             <div class="container">
@@ -145,20 +248,24 @@
 
 
         <!-- TESTIMONIAL AREA START (testimonial-7) -->
-        <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-30 pb-0" data-bg="img/bg/20.jpg"
-            style="margin-top:48px;">
+        <div class="ltn__testimonial-area pt-60 pb-60" style="background: #f8f9fa;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="section-title-area ltn__section-title-2 text-center">
-                            <h3 class="section-title">Client Feedback</h3>
+                        <div class="section-title-area ltn__section-title-2 text-center mb-50">
+                            <h6 class="section-subtitle ltn__secondary-color"
+                                style="text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px;">What Our
+                                Clients Say</h6>
+                            <h2 class="section-title" style="color: #0f4a81; font-size: 40px; font-weight: 800;">Client
+                                Feedback</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row ltn__testimonial-slider-5-active slick-arrow-1">
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
                                 <p> Aadiushmaa Engineers Pvt. Ltd. has provided me with excellent service and
                                     unparalleled knowledge for well over a year. Their technical staff is very educated,
                                     and they were able to recommend the best equipment for our industry-specific needs.
@@ -168,9 +275,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
                                 <p>I have been working with Aadiushmaa Engineers Pvt. Ltd. for several years now, and I
                                     must say, their service and expertise are top-notch. From the very first
                                     interaction, I was impressed with their professionalism and the knowledge they
@@ -178,9 +286,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                            <div class="ltn__testimoni-info">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
+                            <div class=" ltn__testimoni-info">
                                 <p>Their commitment to customer satisfaction is commendable, and I can confidently say
                                     that they go above and beyond to ensure that their clients are always happy. The
                                     team at Aadiushmaa Engineers Pvt. Ltd. is trustworthy, reliable, and always willing
@@ -188,8 +297,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p> Working with Aadiushmaa Engineers Pvt. Ltd. was a fantastic experience. Their team
                                     is professional and knowledgeable. They provided me with a top-quality product that
@@ -198,8 +308,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p>Aadiushmaa Engineers Pvt. Ltd. has been our go-to supplier for mechanical equipment
                                     for years, and we have never been disappointed. They offer a comprehensive range of
@@ -208,8 +319,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p>Working with Aadiushmaa Engineers Pvt. Ltd. has been an absolute pleasure. Their
                                     staff is knowledgeable and professional, and they always stretch at par to ensure
@@ -218,8 +330,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p>What sets Aadiushmaa Engineers Pvt. Ltd. apart from other suppliers is their focus on
                                     research and development. They are always looking for ways to improve their products
@@ -228,13 +341,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="col-lg-4 testimonial-col">
+                        <div class="ltn__testimonial-item ltn__testimonial-item-7"
+                            style="margin-bottom: 15px !important;">
                             <div class="ltn__testimoni-info">
                                 <p>Aadiushmaa Engineers Pvt. Ltd.'s in-house manufacturing capabilities have been a
                                     game-changer for our business. We have complete confidence in the quality of their
                                     products, and their timely delivery has helped us meet project deadlines. <br><b>-
-                                        sharan Grewal, Marine Industry</b></p>
+                                        Sharan Grewal, Marine Industry</b></p>
                             </div>
                         </div>
                     </div>
@@ -245,7 +359,7 @@
 
         <? include("include/our-clients.php"); ?>
 
-        <br><br><br>
+
         <?php  include("common-section/footer.php"); ?>
 
 </body>
