@@ -18,275 +18,275 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <style>
-        /* --- Global Variables --- */
-        :root {
-            --york-blue: #003b70;
-            /* Official York Blue */
-            --york-dark: #002a50;
-            --york-accent: #0091d2;
-            /* Lighter Blue accent */
-            --text-gray: #555;
-            --light-bg: #f8f9fa;
-        }
+    /* --- Global Variables --- */
+    :root {
+        --york-blue: #003b70;
+        /* Official York Blue */
+        --york-dark: #002a50;
+        --york-accent: #0091d2;
+        /* Lighter Blue accent */
+        --text-gray: #555;
+        --light-bg: #f8f9fa;
+    }
 
-        body {
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            color: #333;
-            overflow-x: hidden;
-        }
+    body {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        color: #333;
+        overflow-x: hidden;
+    }
 
-        h1,
-        h2,
-        h3,
-        h4 {
-            font-weight: 700;
-            color: var(--york-blue);
-        }
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-weight: 700;
+        color: var(--york-blue);
+    }
 
-        /* --- Hero Section Redesign --- */
-        .york-hero {
-            position: relative;
-            height: 600px;
-            /* Temp URL: User should replace with ./img/york/banner.jpg */
-            background: url('https://placehold.co/1920x800/003b70/ffffff?text=York+Cooling+Solutions') center/cover no-repeat;
-            display: flex;
-            align-items: center;
-            color: white;
-            margin-bottom: 50px;
-        }
+    /* --- Hero Section Redesign --- */
+    .york-hero {
+        position: relative;
+        height: 600px;
+        /* Temp URL: User should replace with ./img/york/banner.jpg */
+        background: url('https://placehold.co/1920x800/003b70/ffffff?text=York+Cooling+Solutions') center/cover no-repeat;
+        display: flex;
+        align-items: center;
+        color: white;
+        margin-bottom: 50px;
+    }
 
-        /* Overlay Fix for Header Text Conflict */
-        .york-hero::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(90deg, rgba(0, 59, 112, 0.95) 0%, rgba(0, 59, 112, 0.7) 60%, rgba(0, 59, 112, 0.4) 100%);
-            z-index: 1;
-        }
+    /* Overlay Fix for Header Text Conflict */
+    .york-hero::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(90deg, rgba(0, 59, 112, 0.95) 0%, rgba(0, 59, 112, 0.7) 60%, rgba(0, 59, 112, 0.4) 100%);
+        z-index: 1;
+    }
 
-        .hero-content {
-            position: relative;
-            z-index: 2;
-            max-width: 900px;
-            padding: 0 15px;
-        }
+    .hero-content {
+        position: relative;
+        z-index: 2;
+        max-width: 900px;
+        padding: 0 15px;
+    }
 
-        .hero-subtitle {
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            font-weight: 600;
-            color: #4dc3ff;
-            margin-bottom: 10px;
-            display: block;
-        }
+    .hero-subtitle {
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 600;
+        color: #4dc3ff;
+        margin-bottom: 10px;
+        display: block;
+    }
 
+    .hero-title {
+        font-size: 3.5rem;
+        line-height: 1.2;
+        margin-bottom: 20px;
+        color: white;
+    }
+
+    .hero-breadcrumb {
+        background: rgba(255, 255, 255, 0.1);
+        display: inline-block;
+        padding: 8px 20px;
+        border-radius: 50px;
+        backdrop-filter: blur(5px);
+    }
+
+    .hero-breadcrumb a {
+        color: #ddd;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+    .hero-breadcrumb a:hover {
+        color: white;
+    }
+
+    /* --- Feature Cards --- */
+    .section-padding {
+        padding: 80px 0;
+    }
+
+    .card-york {
+        border: none;
+        border-radius: 12px;
+        background: white;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        transition: all 0.4s ease;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .card-york:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 20px 40px rgba(0, 59, 112, 0.15);
+    }
+
+    .card-york .card-img-top {
+        height: 260px;
+        object-fit: cover;
+        background: #eee;
+    }
+
+    .card-york .card-body {
+        padding: 30px;
+    }
+
+    .card-york h3 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+
+    .feature-list {
+        padding-left: 0;
+        list-style: none;
+        margin-bottom: 20px;
+    }
+
+    .feature-list li {
+        position: relative;
+        padding-left: 25px;
+        margin-bottom: 10px;
+        color: var(--text-gray);
+        font-size: 0.95rem;
+    }
+
+    .feature-list li::before {
+        content: "\f00c";
+        /* FontAwesome Check */
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        color: var(--york-accent);
+        position: absolute;
+        left: 0;
+        top: 2px;
+    }
+
+    /* --- Tech Specs / Deep Dive --- */
+    .tech-section {
+        background-color: #fff;
+        overflow: hidden;
+    }
+
+    .tech-img-box {
+        position: relative;
+        height: 100%;
+        min-height: 400px;
+    }
+
+    .tech-img-box img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .badge-york {
+        background: var(--york-blue);
+        color: white;
+        padding: 5px 12px;
+        border-radius: 4px;
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+        display: inline-block;
+    }
+
+    /* --- Stats Grid --- */
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 20px;
+        margin-top: 30px;
+    }
+
+    .stat-item {
+        text-align: center;
+        padding: 20px;
+        background: var(--light-bg);
+        border-radius: 8px;
+        border-bottom: 3px solid var(--york-accent);
+    }
+
+    .stat-item strong {
+        display: block;
+        font-size: 1.8rem;
+        color: var(--york-blue);
+    }
+
+    .stat-item span {
+        font-size: 0.9rem;
+        color: #666;
+    }
+
+    /* --- Form Section --- */
+    .contact-area {
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        position: relative;
+    }
+
+    .contact-box {
+        background: white;
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-input {
+        height: 50px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        padding: 0 20px;
+        width: 100%;
+        margin-bottom: 20px;
+        transition: 0.3s;
+    }
+
+    .custom-input:focus {
+        border-color: var(--york-blue);
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(0, 59, 112, 0.1);
+    }
+
+    .btn-theme {
+        background: var(--york-blue);
+        color: white;
+        padding: 15px 40px;
+        border: none;
+        border-radius: 5px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        cursor: pointer;
+        transition: 0.3s;
+        display: inline-block;
+    }
+
+    .btn-theme:hover {
+        background: var(--york-dark);
+        transform: translateY(-2px);
+        box-shadow: 0 10px 20px rgba(0, 59, 112, 0.2);
+    }
+
+    /* Mobile Adjustments */
+    @media (max-width: 768px) {
         .hero-title {
-            font-size: 3.5rem;
-            line-height: 1.2;
-            margin-bottom: 20px;
-            color: white;
+            font-size: 2.2rem;
         }
 
-        .hero-breadcrumb {
-            background: rgba(255, 255, 255, 0.1);
-            display: inline-block;
-            padding: 8px 20px;
-            border-radius: 50px;
-            backdrop-filter: blur(5px);
+        .york-hero {
+            height: auto;
+            padding: 100px 0;
         }
-
-        .hero-breadcrumb a {
-            color: #ddd;
-            text-decoration: none;
-            transition: 0.3s;
-        }
-
-        .hero-breadcrumb a:hover {
-            color: white;
-        }
-
-        /* --- Feature Cards --- */
-        .section-padding {
-            padding: 80px 0;
-        }
-
-        .card-york {
-            border: none;
-            border-radius: 12px;
-            background: white;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-            transition: all 0.4s ease;
-            height: 100%;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .card-york:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0, 59, 112, 0.15);
-        }
-
-        .card-york .card-img-top {
-            height: 260px;
-            object-fit: cover;
-            background: #eee;
-        }
-
-        .card-york .card-body {
-            padding: 30px;
-        }
-
-        .card-york h3 {
-            font-size: 1.5rem;
-            margin-bottom: 15px;
-        }
-
-        .feature-list {
-            padding-left: 0;
-            list-style: none;
-            margin-bottom: 20px;
-        }
-
-        .feature-list li {
-            position: relative;
-            padding-left: 25px;
-            margin-bottom: 10px;
-            color: var(--text-gray);
-            font-size: 0.95rem;
-        }
-
-        .feature-list li::before {
-            content: "\f00c";
-            /* FontAwesome Check */
-            font-family: "Font Awesome 5 Free";
-            font-weight: 900;
-            color: var(--york-accent);
-            position: absolute;
-            left: 0;
-            top: 2px;
-        }
-
-        /* --- Tech Specs / Deep Dive --- */
-        .tech-section {
-            background-color: #fff;
-            overflow: hidden;
-        }
-
-        .tech-img-box {
-            position: relative;
-            height: 100%;
-            min-height: 400px;
-        }
-
-        .tech-img-box img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 8px;
-        }
-
-        .badge-york {
-            background: var(--york-blue);
-            color: white;
-            padding: 5px 12px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 15px;
-            display: inline-block;
-        }
-
-        /* --- Stats Grid --- */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
-
-        .stat-item {
-            text-align: center;
-            padding: 20px;
-            background: var(--light-bg);
-            border-radius: 8px;
-            border-bottom: 3px solid var(--york-accent);
-        }
-
-        .stat-item strong {
-            display: block;
-            font-size: 1.8rem;
-            color: var(--york-blue);
-        }
-
-        .stat-item span {
-            font-size: 0.9rem;
-            color: #666;
-        }
-
-        /* --- Form Section --- */
-        .contact-area {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            position: relative;
-        }
-
-        .contact-box {
-            background: white;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
-        }
-
-        .custom-input {
-            height: 50px;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-            padding: 0 20px;
-            width: 100%;
-            margin-bottom: 20px;
-            transition: 0.3s;
-        }
-
-        .custom-input:focus {
-            border-color: var(--york-blue);
-            outline: none;
-            box-shadow: 0 0 0 3px rgba(0, 59, 112, 0.1);
-        }
-
-        .btn-theme {
-            background: var(--york-blue);
-            color: white;
-            padding: 15px 40px;
-            border: none;
-            border-radius: 5px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            cursor: pointer;
-            transition: 0.3s;
-            display: inline-block;
-        }
-
-        .btn-theme:hover {
-            background: var(--york-dark);
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(0, 59, 112, 0.2);
-        }
-
-        /* Mobile Adjustments */
-        @media (max-width: 768px) {
-            .hero-title {
-                font-size: 2.2rem;
-            }
-
-            .york-hero {
-                height: auto;
-                padding: 100px 0;
-            }
-        }
+    }
     </style>
 </head>
 
@@ -298,8 +298,8 @@
 
         <div class="ltn__utilize-overlay"></div>
         <!-- BREADCRUMB AREA START -->
-        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image "
-            data-bg="img/other-page-banner-img.png" style="height:236px;padding-top: 62px; margin-bottom: 0px;">
+        <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image " data-bg="img/product-4.png"
+            style="height:236px;padding-top: 62px; margin-bottom: 0px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -670,38 +670,38 @@
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-        // Init Animations
-        AOS.init({
-            once: true,
-            offset: 120,
-            duration: 800,
-            easing: 'ease-out-cubic'
-        });
+    // Init Animations
+    AOS.init({
+        once: true,
+        offset: 120,
+        duration: 800,
+        easing: 'ease-out-cubic'
+    });
 
-        // Simple Math Captcha
-        document.addEventListener("DOMContentLoaded", function () {
-            const qEl = document.getElementById("captchaQuestion");
-            const resEl = document.getElementById("captchaResult");
-            const inputEl = document.getElementById("captchaInput");
-            const form = document.getElementById("contact-form");
+    // Simple Math Captcha
+    document.addEventListener("DOMContentLoaded", function() {
+        const qEl = document.getElementById("captchaQuestion");
+        const resEl = document.getElementById("captchaResult");
+        const inputEl = document.getElementById("captchaInput");
+        const form = document.getElementById("contact-form");
 
-            function setCaptcha() {
-                let n1 = Math.floor(Math.random() * 9) + 1;
-                let n2 = Math.floor(Math.random() * 9) + 1;
-                qEl.innerText = `${n1} + ${n2} = ?`;
-                resEl.value = n1 + n2;
+        function setCaptcha() {
+            let n1 = Math.floor(Math.random() * 9) + 1;
+            let n2 = Math.floor(Math.random() * 9) + 1;
+            qEl.innerText = `${n1} + ${n2} = ?`;
+            resEl.value = n1 + n2;
+        }
+        setCaptcha();
+
+        form.addEventListener("submit", function(e) {
+            if (parseInt(inputEl.value) !== parseInt(resEl.value)) {
+                e.preventDefault();
+                alert("Incorrect Security Answer. Please try again.");
+                setCaptcha();
+                inputEl.value = "";
             }
-            setCaptcha();
-
-            form.addEventListener("submit", function (e) {
-                if (parseInt(inputEl.value) !== parseInt(resEl.value)) {
-                    e.preventDefault();
-                    alert("Incorrect Security Answer. Please try again.");
-                    setCaptcha();
-                    inputEl.value = "";
-                }
-            });
         });
+    });
     </script>
 </body>
 
